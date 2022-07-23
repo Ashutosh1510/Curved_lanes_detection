@@ -24,3 +24,13 @@ git clone https://github.com/Ashutosh1510/Curved_lanes_detection
 ```
 python3 main.py
 ```
+# Input
+
+
+https://user-images.githubusercontent.com/76493296/180603600-c4c658a1-9504-4dee-8b77-64a709c8228a.mp4
+
+# Result
+
+
+https://user-images.githubusercontent.com/76493296/180603621-88839855-40ce-4ccc-9619-20388ea31c44.mp4
+
